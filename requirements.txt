@@ -1,9 +1,8 @@
 fastapi
 uvicorn
-gtts
-TTS
 whisper
 sentence-transformers
 chromadb
+gTTS
 beautifulsoup4
 requests
