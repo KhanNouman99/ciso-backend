@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-gtts
-TTS
-whisper
-sentence-transformers
-chromadb
-beautifulsoup4
-requests
