@@ -1,0 +1,37 @@
+# pakistan_legal_snippets.txt
+# Open-access excerpts (public domain)
+
+## Pakistan Penal Code (Act XLV of 1860)
+
+### Punishments
+- Section 63 – **Fine**: When no sum is fixed, the fine is unlimited but not excessive.  
+- Section 64 – **Imprisonment for non-payment of fine**: Courts may add imprisonment in default of fine, not exceeding one-fourth of the maximum term for the offence.  
+- Section 124-A – **Sedition**: Whoever excites disaffection against the Federal or Provincial Government by words, signs, or representations shall be punished with imprisonment for life, or up to 3 years and/or fine.  
+- Section 131 – **Abetting mutiny**: Abetting mutiny by Army, Navy or Air Force personnel is punishable with **imprisonment for life** or up to 10 years and fine.  
+- Section 135 – **Abetment of desertion**: Abetting desertion is punishable with up to **2 years imprisonment** or fine.  
+
+### Wrongful Restraint & Confinement
+- Section 339 – **Wrongful restraint**: Voluntarily obstructing any person from proceeding lawfully.  
+- Section 340 – **Wrongful confinement**: Restraining a person within circumscribing limits.  
+- Section 346 – **Wrongful confinement in secret**: If confinement is concealed, additional **2 years imprisonment** may be awarded.  
+- Section 347 – **Confinement to extort property or compel illegal act**: Up to **3 years imprisonment** and fine.  
+
+### Offences Against Religion
+- Section 295-A – **Outraging religious feelings**: Deliberate insults to religion punishable by up to **10 years imprisonment** and/or fine.  
+- Section 295-B – **Defiling the Holy Qur’an**: Wilful desecration punishable with **imprisonment for life**.  
+- Section 295-C – **Derogatory remarks about the Holy Prophet**: Punishable with **death or imprisonment for life** and fine.  
+
+### Criminal Intimidation
+- Section 503 – **Criminal intimidation**: Threatening injury to person, reputation or property with intent to cause alarm or compel an act/omission.  
+- Section 504 – **Intentional insult with intent to provoke breach of peace**: Up to **2 years imprisonment** or fine.  
+- Section 505 – **Statements conducing to public mischief**: Statements that create public fear, alarm or mischief.  
+
+### Attempts to Commit Offences
+- Section 511 – **Punishment for attempts**: Whoever attempts an offence and does any act toward its commission shall be punished with **half the longest imprisonment** or fine provided for that offence.
+
+## Landmark Supreme-Court Cases
+- **Asma Jillani v. Government of Punjab (PLD 1972 SC 139)** – Martial law declared unconstitutional.  
+- **Benazir Bhutto v. Federation (PLD 1988 SC 416)** – Right to equal access to public office affirmed under Article 25.  
+- **Syed Zafar Ali Shah v. Pervez Musharraf (PLD 2000 SC 869)** – 1999 military takeover validated under doctrine of necessity but limited to 3 years.
+
+# End of file

@@ -1,0 +1,45 @@
+# NIST CSF 2.0 Core Functions & Categories
+# Source: open NIST CSF 2.0 documents; public domain
+
+## FUNCTIONS (top-level)
+1. GOVERN (GV) – establish & oversee cybersecurity risk strategy, policy, supply-chain risk management, roles, authorities & oversight.
+2. IDENTIFY (ID) – understand assets, risks, and improvement opportunities.
+3. PROTECT (PR) – apply safeguards to prevent or reduce cybersecurity risk.
+4. DETECT (DE) – find and analyse anomalies, IoCs, potential incidents.
+5. RESPOND (RS) – contain & manage cybersecurity incidents.
+6. RECOVER (RC) – restore affected assets & operations and learn lessons.
+
+## SAMPLE CATEGORIES & SUB-CATEGORIES
+GOVERN (GV)
+- GV.OC  Organizational Context
+- GV.RM  Risk Management Strategy
+- GV.SC  Cybersecurity Supply-Chain Risk Management
+- GV.RA  Roles, Responsibilities & Authorities
+- GV.PO  Policy
+- GV.OV  Oversight
+
+IDENTIFY (ID)
+- ID.AM  Asset Management
+- ID.RA  Risk Assessment
+- ID.IM  Improvement
+
+PROTECT (PR)
+- PR.AA  Identity Management, Authentication & Access Control
+- PR.AT  Awareness & Training
+- PR.DS  Data Security
+- PR.PS  Platform Security
+- PR.IR  Technology Infrastructure Resilience
+
+DETECT (DE)
+- DE.CM  Continuous Monitoring
+- DE.AE  Adverse Event Analysis
+
+RESPOND (RS)
+- RS.MA  Incident Management
+- RS.AN  Incident Analysis
+- RS.CO  Response Communication
+- RS.MI  Incident Mitigation
+
+RECOVER (RC)
+- RC.RP  Incident Recovery Plan Execution
+- RC.CO  Incident Recovery Communication
