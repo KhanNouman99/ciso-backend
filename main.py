@@ -19,4 +19,5 @@ stt_model = whisper.load_model("base")
 
 # Setup Chroma vector store
 chroma_client = chromadb.Client(Settings(chroma_db_impl="duckdb+parquet", persist_directory="./chroma"))
-collection = chroma_client.get_or
+collection = chroma_client.get_or_create_collection(name="ciso_docs")
+

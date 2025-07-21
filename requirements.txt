@@ -6,3 +6,4 @@ chromadb
 gTTS
 beautifulsoup4
 requests
+PyMuPDF
